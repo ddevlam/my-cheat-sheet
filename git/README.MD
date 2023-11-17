@@ -8,3 +8,9 @@ This README contains GIT commands.
 - Update the branch with remote `git pull`
 - See all log for this branch `git log`
 - See specific commit log `git log [hash]`
+- See what the status currently is `git status`
+- Add files to change-set `git add [file/.(all)]`
+- See the changes compared to last time `git diff [file]`
+- Commit `git commit -m 'My message'`
+- Commit and add in one go `git commit -am 'My message'`
+- Send the changes to remove `git push`

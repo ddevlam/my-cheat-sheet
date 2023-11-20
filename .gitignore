@@ -2,3 +2,8 @@
 
 # InteliJ stuff
 /.idea/*
+*.iml
+
+# Java
+## MVN stuff
+java/**/target/*
